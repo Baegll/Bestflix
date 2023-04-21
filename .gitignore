@@ -2,3 +2,4 @@ data_imdb_basics.tsv
 data_imdb_ratings.tsv
 netflix_titles
 .DS_Store
+*.tsv
