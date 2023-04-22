@@ -1,6 +1,6 @@
 readme.md
 
-Data files are not included due to size
+Data files are not included on github due to size
 
 https://datasets.imdbws.com/ \n https://www.kaggle.com/datasets/shivamb/netflix-shows
 
